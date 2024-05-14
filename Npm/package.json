@@ -1,0 +1,14 @@
+{
+  "name": "customized",
+  "version": "1.0.0",
+  "description": "Jus trying to create a new pakage bu own",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
